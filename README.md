@@ -1,28 +1,31 @@
 # cv-davidrios
 
-## Descripción
-Este repositorio contiene mi portafolio personal en GitHub, donde comparto mi experiencia, proyectos y habilidades como desarrollador.
+## Description
+This repository hosts my personal portfolio, where I share my professional experience, projects, and skills as a developer. It is a representation of my journey and the achievements I've made so far.
 
-## Instalación y Uso
-No se requiere instalación para visualizar este portafolio. Simplemente visita el enlace proporcionado abajo para verlo en tu navegador web.
+## Installation and Usage
+No installation is required to view this portfolio. Simply open the link provided below in your web browser.
 
-## Contenido
-Este portafolio incluye:
-- Proyectos destacados
-- Información sobre mi experiencia y habilidades
-- Formas de contacto y redes sociales
+## Content
+This portfolio includes:
+- Featured projects and work examples.
+- Details about my professional experience and skills.
+- Contact information and links to my social media profiles.
 
-## Autor
+## Author
 - GitHub: [david21rios](https://github.com/david21rios)
 - LinkedIn: [David Rios](https://www.linkedin.com/in/davidriosl/)
 
-## Contribución
-¡Gracias por considerar contribuir a mi portafolio! Si deseas hacer sugerencias o mejoras, sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Haz commit de tus cambios (`git commit -am 'Agrega nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Crea un pull request en GitHub.
+## Contribution
+Thank you for your interest in contributing to my portfolio! If you have suggestions or would like to propose improvements, please follow these steps:
+1. Fork the repository.
+2. Create a new branch:  
+   `git checkout -b feature/new-feature`
+3. Make your changes and commit:  
+   `git commit -am 'Add new feature'`
+4. Push the branch to your repository:  
+   `git push origin feature/new-feature`
+5. Create a pull request on GitHub.
 
-## Visita mi Portafolio
-Puedes explorar mi portafolio en GitHub [aquí](https://david21rios.github.io/cv-davidrios/).
+## Visit My Portfolio
+Explore my portfolio on GitHub: [cv-davidrios](https://david21rios.github.io/cv-davidrios/)
